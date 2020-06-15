@@ -286,7 +286,9 @@ Time series databases are the fastest growing segment in the database industry. 
 
 * https://db-engines.com/en/system/Oracle+NoSQL#a37  
 
-
+### Team:
+*Gonzalo Manrique
+*Walter Vives
 
 
 
